@@ -1,5 +1,5 @@
 # About me
-- 15M INTJ-A (GMT-7: Phoenix, AZ)
+- 15M INTJ-A (UTC-7: Phoenix, AZ)
 - 🎶 I like almost every genre of music (mostly breakcore)
 - 👨‍💻 I’m interested in C and C++ (I also like old languages such as FORTRAN, Ada, and Algol)
 - 📱  How to reach me:
