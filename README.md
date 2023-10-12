@@ -11,7 +11,7 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 </div>
 <details>
-  <summary>Minor experience with:</summary>
+  <summary><b>Minor experience with:</b></summary>
   
   <div>
   	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
