@@ -16,8 +16,7 @@
   <div>
   	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
   	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png" alt="Fortran" title="Fortran"/>
-  	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/>
-  	<img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/>
   	<img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/>
+  	<img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/>
   </div>
 </details>
