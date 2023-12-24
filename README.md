@@ -1,7 +1,6 @@
 # <h2>Hi, I'm xZfed!</h2>
-- 👋 15M INTJ-A (UTC-7: Phoenix, AZ)
-- 🎶 I listen to music 24/7 (mostly breakcore)
-- 👨‍💻 I’m interested in C and x86 assembly (I do OSDev, but that doesn't mean I'm good at it...)
+- 👋 15M INTJ-A ☦️ UTC-7 🇺🇸
+- 👨‍💻 I do OSDev, but that doesn't mean I'm good at it...
 
 # <h3>Skills and Tools:</h3>
 <div>
@@ -9,13 +8,3 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/>
 </div>
-<details>
-  <summary><b>Minor experience with:</b></summary>
-  
-  <div>
-  	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
-  	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png" alt="Fortran" title="Fortran"/>
-  	<img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" alt="Sublime Text" title="Sublime Text"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-  </div>
-</details>
