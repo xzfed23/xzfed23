@@ -1,7 +1,7 @@
 # <h2>Hi, I'm xZfed!</h2>
 - 👋 15M INTJ-A (UTC-7: Phoenix, AZ)
 - 🎶 I listen to music 24/7 (mostly breakcore)
-- 👨‍💻 I’m interested in C and x86 assembly (I also like old languages such as FORTRAN, Ada, and ALGOL)
+- 👨‍💻 I’m interested in C and x86 assembly (I do OSDev, but that doesn't mean I'm good at it...)
 
 # <h3>Skills and Tools:</h3>
 <div>
