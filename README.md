@@ -1,10 +1,15 @@
-# <h2>Hi, I'm xZfed!</h2>
-- 👋 15M INTJ-A ☦️ UTC-7 🇺🇸
-- 👨‍💻 I do OSDev, but that doesn't mean I'm good at it...
+<h2> Hi, I'm xZfed! </h2>
 
-# <h3>Skills and Tools:</h3>
-<div>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/>
-</div>
+- 👋 15M INTJ-A ☦️ UTC-7 🇺🇸
+- I enjoy studying computers at a low level.
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgweled.org%2Fimages%2Fdownload-archlinux.png&f=1&nofb=1&ipt=2ee34e2d9e1c745c4e7f1a7ac8744d76c6678410faa1c1a2b7fea9f7124381ab&ipo=images) btw
+
+# <h3>Skills and tools:</h3>
+![](https://skillicons.dev/icons?i=c,raspberrypi,python,linux,bash)
+
+<details><summary>
+<h3>Currently learning:</h3></summary>
+	
+![](https://skillicons.dev/icons?i=vim)
+</details>
